@@ -1,3 +1,21 @@
+
+# reactScriptApp
+react TypeScript App 202604
+
+## 참고 공유
+https://www.youtube.com/watch?v=32k4clD8Rt8&list=PLTb3qGCzYjS2AliTIbz9eAGjZSdEQa3m1&index=1
+--53 부터 
+
+## 생성 
+  1. npm create vite@latest reactTxApp
+  [typeScript project 설치]
+  2. npm create vite@latest reactscriptapp -- --template reat-ts     
+  3. npm install react-router-dom
+  4. npm install -D tailwindcss@3 postcss autoprefixer
+     npx tailwindcss init -p
+  5. npm i lucide-react 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
